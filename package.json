@@ -1,0 +1,16 @@
+{
+  "name": "@throskam/prettier-config",
+  "version": "0.1.0",
+  "description": "Prettier shareable config",
+  "main": ".prettierrc.js",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Thibaut Roskam <throskam@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^3.1.0",
+    "prettier-config-standard": "^7.0.0"
+  }
+}
