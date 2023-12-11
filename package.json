@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Prettier shareable config",
   "main": ".prettierrc.js",
+  "files": [
+    ".prettierrc.js"
+  ],
   "keywords": [
     "prettier",
     "config"
